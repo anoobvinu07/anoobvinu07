@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- I am Anoob Prakash, computational biologist and population geneticist studying climate change adaptation of trees.
+- I am currently working on climate adaptation in black walnut, white oak and short leaf pine.
+- I am employing machine learning approaches to use the genomic data of the trees to predict species adaptation to climate change in the near future.
+
+## Education
+
+Ph.D. in Plant Biology, University of Vermont
+M.Sc. in Tree Physiology and Breeding, Kerala Agricultural University, India
+
 <!--
 **anoobvinu07/anoobvinu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
