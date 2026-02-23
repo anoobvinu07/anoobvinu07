@@ -6,7 +6,7 @@
 
 ## Education
 
-  Ph.D. in Plant Biology, University of Vermont  
+  Ph.D. in Plant Biology, University of Vermont, USA  
 
   M.Sc. in Tree Physiology and Breeding, Kerala Agricultural University, India
 
