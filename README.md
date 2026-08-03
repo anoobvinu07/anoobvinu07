@@ -11,7 +11,7 @@
   M.Sc. in Tree Physiology and Breeding, Kerala Agricultural University, India
 
 ## Personal website  
-Hosted at https://anoobvinu07.github.io/ - created with Quatro in R  
+Hosted at https://anoobvinu07.github.io/ [created with Quatro in R] and changes mirrored on to https://anoobprakash.github.io/ using GitHub actions
 
 My github for personal use is at: https://github.com/anoobprakash
 <!--
