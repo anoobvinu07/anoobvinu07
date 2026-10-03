@@ -18,19 +18,9 @@ Postdoctoral researcher in forest genomics, population genetics, and climate ada
 
   M.Sc. in Tree Physiology and Breeding, Kerala Agricultural University, India
 
-## Personal website  
-Hosted at https://anoobvinu07.github.io/ [created with Quatro in R] and changes mirrored on to https://anoobprakash.github.io/ using GitHub actions
+# Research 
 
-My github for personal use is at: https://github.com/anoobprakash
-
-[![Website](https://img.shields.io/badge/Website-583C88?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/notebook/)
-[![Email](https://img.shields.io/badge/Email-prakas89%40purdue.edu-884C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:prakas89@purdue.edu)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
-
-# Genomic Offset Workflows
-
-Reproducible workflows for genotype–environment association, genomic-offset
-estimation, and climate-adaptation analyses in forest tree populations.
+Reproducible workflows for genotype–environment association, conservation genomics, and climate-adaptation analyses in forest tree populations.
 
 <div align="center">
 
@@ -55,6 +45,58 @@ and climate adaptation.
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
 
 </div>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/anoobprakash">
+        <img src="https://img.shields.io/badge/Genomic-Offset-583C88?style=for-the-badge" alt="Genomic Offset" />
+        <br><br>
+        <strong>Genomic Offset</strong>
+        <br><br>
+        Climate-adaptation risk and assisted gene-flow decision support.
+        <br><br>
+        Explore →
+      </a>
+    </td>
+
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/anoobprakash">
+        <img src="https://img.shields.io/badge/Genotype-Environment-5ACBBE?style=for-the-badge" alt="Genotype Environment" />
+        <br><br>
+        <strong>GEA Workflows</strong>
+        <br><br>
+        RDA, LFMM, gradient forests, and environmental association analysis.
+        <br><br>
+        Explore →
+      </a>
+    </td>
+
+    <td width="25%" align="center" valign="top">
+      <a href="https://github.com/anoobprakash">
+        <img src="https://img.shields.io/badge/Forest-Genomics-884C3C?style=for-the-badge" alt="Forest Genomics" />
+        <br><br>
+        <strong>Forest Genomics</strong>
+        <br><br>
+        Population structure, diversity, and climate-associated adaptation.
+        <br><br>
+        Explore →
+      </a>
+    </td>
+
+    <td width="25%" align="center" valign="top">
+      <a href="https://anoobvinu07.github.io/">
+        <img src="https://img.shields.io/badge/Research-Notebook-276DC3?style=for-the-badge" alt="Research Notebook" />
+        <br><br>
+        <strong>Research Notebook</strong>
+        <br><br>
+        Methods, notes, code, visualizations, and research resources.
+        <br><br>
+        Visit →
+      </a>
+    </td>
+  </tr>
+</table>
 <!--
 **anoobvinu07/anoobvinu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
