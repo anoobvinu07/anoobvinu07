@@ -1,30 +1,26 @@
-## Hi there 👋
-## Anoob Prakash
+# Hi, I’m Anoob Prakash 👋
 
-Postdoctoral researcher in forest genomics, population genetics, and climate adaptation.  
+Postdoctoral researcher in **forest genomics**, population genetics, and climate adaptation.
 
 [![Website](https://img.shields.io/badge/Website-583C88?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/)
 [![Email](https://img.shields.io/badge/Email-prakas89%40purdue.edu-884C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:prakas89@purdue.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5ACBBE?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoob-prakash/)
 
-- I am Anoob Prakash, computational biologist and population geneticist studying climate change adaptation of trees.
-- I am currently working on climate adaptation in black walnut, white oak and short leaf pine.
-- I am employing machine learning approaches to use the genomic data of the trees to predict species adaptation to climate change in the near future.
+I am a computational biologist and population geneticist studying how tree populations adapt to climate change. My current work focuses on climate adaptation in black walnut, white oak, and shortleaf pine. I use population-genomic and machine-learning approaches to understand climate-associated genetic variation and evaluate how populations may respond to future environmental change.
 
 ## Education
 
-  Ph.D. in Plant Biology, University of Vermont, USA  
+- **Ph.D., Plant Biology** — University of Vermont, USA
+- **M.Sc., Tree Physiology and Breeding** — Kerala Agricultural University, India
 
-  M.Sc. in Tree Physiology and Breeding, Kerala Agricultural University, India
-
-## Highlights
+## Research highlights
 
 Reproducible workflows for genotype–environment association, conservation genomics, and climate-adaptation analyses in forest tree populations.
+
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
-
-  <td width="25%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <a href="https://anoobvinu07.github.io/NSF_RedSpruce_CG/">
         <img
           src="https://img.shields.io/badge/01-Genotype--Environment-F5276C?style=for-the-badge"
@@ -34,9 +30,7 @@ Reproducible workflows for genotype–environment association, conservation geno
       <br><br>
       Reproducible analyses of genotype–environment interactions and trait plasticity in red spruce (<em>Picea rubens</em> Sarg.).
       <br><br>
-      <a href="https://github.com/anoobvinu07/NSF_RedSpruce_CG">
-        Explore repository →
-      </a>
+      <a href="https://github.com/anoobvinu07/NSF_RedSpruce_CG">Explore repository →</a>
     </td>
 
   <td width="25%" align="center" valign="top">
@@ -47,12 +41,10 @@ Reproducible workflows for genotype–environment association, conservation geno
         />
       </a>
       <br><br>
-      Bringing genomic tools to the field for species restoration in collaboration with
+      Applying genomic tools to forest restoration and climate-adaptation decisions in collaboration with
       <a href="https://www.youtube.com/watch?v=S_EklrfsIVw">The Nature Conservancy</a>.
       <br><br>
-      <a href="https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600">
-        View research →
-      </a>
+      <a href="https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600">View publication →</a>
     </td>
 
   <td width="25%" align="center" valign="top">
@@ -63,11 +55,9 @@ Reproducible workflows for genotype–environment association, conservation geno
         />
       </a>
       <br><br>
-      Learning to apply ecological-genomics analyses and understand the theory underlying these approaches.
+      Notes and reproducible materials for learning ecological-genomics methods and the theory underlying their application.
       <br><br>
-      <a href="https://github.com/anoobvinu07/EcologicalGenomics">
-        Explore repository →
-      </a>
+      <a href="https://github.com/anoobvinu07/EcologicalGenomics">Explore repository →</a>
     </td>
 
   <td width="25%" align="center" valign="top">
@@ -80,25 +70,12 @@ Reproducible workflows for genotype–environment association, conservation geno
       <br><br>
       Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
       <br><br>
-      <a href="https://anoobvinu07.github.io/notebook/">
-        Visit notebook →
-      </a>
+      <a href="https://anoobvinu07.github.io/notebook/">Visit notebook →</a>
     </td>
-
   </tr>
 </table>
 
 <!--
-**anoobvinu07/anoobvinu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**anoobvinu07/anoobvinu07** is a special repository because its README.md
+appears on your GitHub profile.
 -->
