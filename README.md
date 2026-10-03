@@ -60,7 +60,7 @@ and climate adaptation.
       </a>
     </td>
 
-    <td width="25%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
       <a href="https://github.com/anoobprakash">
         <img src="https://img.shields.io/badge/Genotype-Environment-5ACBBE?style=for-the-badge" alt="Genotype Environment" />
         <br><br>
@@ -72,7 +72,7 @@ and climate adaptation.
       </a>
     </td>
 
-    <td width="25%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
       <a href="https://github.com/anoobprakash">
         <img src="https://img.shields.io/badge/Forest-Genomics-884C3C?style=for-the-badge" alt="Forest Genomics" />
         <br><br>
@@ -84,7 +84,7 @@ and climate adaptation.
       </a>
     </td>
 
-    <td width="25%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
       <a href="https://anoobvinu07.github.io/">
         <img src="https://img.shields.io/badge/Research-Notebook-276DC3?style=for-the-badge" alt="Research Notebook" />
         <br><br>
@@ -97,6 +97,8 @@ and climate adaptation.
     </td>
   </tr>
 </table>
+
+
 <!--
 **anoobvinu07/anoobvinu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
