@@ -2,9 +2,9 @@
 
 Postdoctoral researcher in **forest genomics**, population genetics, and climate adaptation.
 
-[![Website](https://img.shields.io/badge/Website-583C88?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/)
+[![Website](https://img.shields.io/badge/Website-C0B05D?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/)
 [![Email](https://img.shields.io/badge/Email-prakas89%40purdue.edu-884C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:prakas89@purdue.edu)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-45D999?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-5DC07E?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-276DC3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoob-prakash/)
 
 I am a computational biologist and population geneticist studying how tree populations adapt to climate change. My current work focuses on climate adaptation in black walnut, white oak, and shortleaf pine. I use population-genomic and machine-learning approaches to understand climate-associated genetic variation and evaluate how populations may respond to future environmental change.
