@@ -18,7 +18,7 @@ Postdoctoral researcher in forest genomics, population genetics, and climate ada
 
   M.Sc. in Tree Physiology and Breeding, Kerala Agricultural University, India
 
-# Research
+## Highlights
 
 Reproducible workflows for genotype–environment association, conservation genomics, and climate-adaptation analyses in forest tree populations.
 <table border="0" cellspacing="0" cellpadding="12">
