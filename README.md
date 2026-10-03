@@ -18,9 +18,64 @@ I am a computational biologist and population geneticist studying how tree popul
 
 Reproducible workflows for genotype–environment association, conservation genomics, and climate-adaptation analyses in forest tree populations.
 
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://anoobvinu07.github.io/NSF_RedSpruce_CG/">
+        <img
+          src="https://img.shields.io/badge/01-GxE%20Interaction-F5276C?style=for-the-badge"
+          alt="Genotype–environment association"
+        />
+      </a>
+      <br><br>
+      Reproducible analyses of genotype–environment interactions and trait plasticity in red spruce (<em>Picea rubens</em> Sarg.).
+      <br><br>
+      <a href="https://github.com/anoobvinu07/NSF_RedSpruce_CG">Explore repository →</a>
+    </td>
 
+  <td width="25%" align="center" valign="top">
+      <a href="https://github.com/anoobvinu07/Genomic_assisted_selection">
+        <img
+          src="https://img.shields.io/badge/02-Forest%20Genomics-884C3C?style=for-the-badge"
+          alt="Forest genomics"
+        />
+      </a>
+      <br><br>
+      Applying genomic tools to forest restoration and climate-adaptation decisions in collaboration with
+      <a href="https://www.youtube.com/watch?v=S_EklrfsIVw">The Nature Conservancy</a>.
+      <br><br>
+      <a href="https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600">View publication →</a>
+    </td>
 
+  <td width="25%" align="center" valign="top">
+      <a href="https://anoobvinu07.github.io/EcologicalGenomics/">
+        <img
+          src="https://img.shields.io/badge/03-Ecol%20Genomics-583C88?style=for-the-badge"
+          alt="Ecological genomics"
+        />
+      </a>
+      <br><br>
+      Notes and reproducible materials for learning ecological-genomics methods and the theory underlying their application.
+      <br><br>
+      <a href="https://github.com/anoobvinu07/EcologicalGenomics">Explore repository →</a>
+    </td>
 
+  <td width="25%" align="center" valign="top">
+      <a href="https://anoobvinu07.github.io/notebook/">
+        <img
+          src="https://img.shields.io/badge/04-My%20Notebook-276DC3?style=for-the-badge"
+          alt="Research notebook"
+        />
+      </a>
+      <br><br>
+      Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
+      <br><br>
+      <a href="https://anoobvinu07.github.io/notebook/">Visit notebook →</a>
+    </td>
+  </tr>
+</table>
+
+<!--
 [![G×E Interaction](https://img.shields.io/badge/01-GxE%20Interaction-F5276C?style=for-the-badge)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
 
 Reproducible analyses of genotype–environment interactions and trait plasticity in red spruce (*Picea rubens* Sarg.).
@@ -53,6 +108,7 @@ Notes and reproducible materials for learning ecological-genomics methods and th
 Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
 
 [Visit notebook →](https://anoobvinu07.github.io/notebook/)
+-->
 
 <!--
 **anoobvinu07/anoobvinu07** is a special repository because its README.md
