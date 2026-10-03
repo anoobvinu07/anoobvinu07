@@ -48,7 +48,7 @@ Notes and reproducible materials for learning ecological-genomics methods and th
 ### `04` · Research notebook
 
 [![Visit notebook](https://img.shields.io/badge/Visit%20notebook-276DC3?style=flat-square&logo=quarto&logoColor=white)](https://anoobvinu07.github.io/notebook/)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/anoobvinu07.github.io/tree/main/notebook/posts)
 
 Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
 
