@@ -22,13 +22,14 @@ I am a computational biologist and population geneticist studying how tree popul
 
 [![Project site](https://img.shields.io/badge/Project%20site-F5276C?style=flat-square&logo=githubpages&logoColor=white)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/NSF_RedSpruce_CG)
+[![Publication](https://img.shields.io/badge/Publication-884C3C?style=flat-square&logo=readme&logoColor=white)](https://royalsocietypublishing.org/rstb/article/377/1848/20210008/108805/Genotypic-variation-and-plasticity-in-climate)
 
 Reproducible analyses of genotype-by-environment interaction and trait plasticity in red spruce (*Picea rubens* Sarg.).
 
 <br>
 
 ### `02` · Forest genomics for restoration
-
+[![Project site](https://img.shields.io/badge/Project%20site-F5276C?style=flat-square&logo=githubpages&logoColor=white)](https://anoobvinu07.github.io/Genomic_assisted_selection/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/Genomic_assisted_selection)
 [![Publication](https://img.shields.io/badge/Publication-884C3C?style=flat-square&logo=readme&logoColor=white)](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600)
 
