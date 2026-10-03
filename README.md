@@ -63,7 +63,7 @@ Reproducible workflows for genotype–environment association, conservation geno
   <td width="25%" align="center" valign="top">
       <a href="https://anoobvinu07.github.io/notebook/">
         <img
-          src="https://img.shields.io/badge/04-Research%20Notebook-276DC3?style=for-the-badge"
+          src="https://img.shields.io/badge/04-My%20Notebook-276DC3?style=for-the-badge"
           alt="Research notebook"
         />
       </a>
