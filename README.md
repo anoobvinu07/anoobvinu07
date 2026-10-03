@@ -50,7 +50,7 @@ Reproducible workflows for genotype–environment association, conservation geno
   <td width="25%" align="center" valign="top">
       <a href="https://anoobvinu07.github.io/EcologicalGenomics/">
         <img
-          src="https://img.shields.io/badge/03-Ecological%20Genomics-583C88?style=for-the-badge"
+          src="https://img.shields.io/badge/03-Ecol%20Genomics-583C88?style=for-the-badge"
           alt="Ecological genomics"
         />
       </a>
