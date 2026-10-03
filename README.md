@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## Anoob Prakash
 
-Postdoctoral researcher in forest genomics, population genetics,  
-and climate adaptation.  
+Postdoctoral researcher in forest genomics, population genetics, and climate adaptation.  
 
 [![Website](https://img.shields.io/badge/Website-583C88?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/)
 [![Email](https://img.shields.io/badge/Email-prakas89%40purdue.edu-884C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:prakas89@purdue.edu)
