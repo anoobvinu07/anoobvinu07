@@ -75,7 +75,6 @@ Reproducible workflows for genotype–environment association, conservation geno
   </tr>
 </table>
 
-### 01 · G×E Interaction
 
 [![G×E Interaction](https://img.shields.io/badge/01-GxE%20Interaction-F5276C?style=for-the-badge)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
 
@@ -85,7 +84,6 @@ Reproducible analyses of genotype–environment interactions and trait plasticit
 
 ---
 
-### 02 · Forest Genomics
 
 [![Forest Genomics](https://img.shields.io/badge/02-Forest%20Genomics-884C3C?style=for-the-badge)](https://github.com/anoobvinu07/Genomic_assisted_selection)
 
@@ -95,7 +93,6 @@ Applying genomic tools to forest restoration and climate-adaptation decisions in
 
 ---
 
-### 03 · Ecological Genomics
 
 [![Ecological Genomics](https://img.shields.io/badge/03-Ecol%20Genomics-583C88?style=for-the-badge)](https://anoobvinu07.github.io/EcologicalGenomics/)
 
@@ -105,7 +102,6 @@ Notes and reproducible materials for learning ecological-genomics methods and th
 
 ---
 
-### 04 · My Notebook
 
 [![My Notebook](https://img.shields.io/badge/04-My%20Notebook-276DC3?style=for-the-badge)](https://anoobvinu07.github.io/notebook/)
 
