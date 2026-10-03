@@ -43,12 +43,12 @@ Reproducible workflows for genotype–environment association, conservation geno
   <td width="25%" align="center" valign="top">
       <a href="https://github.com/anoobvinu07/Genomic_assisted_selection">
         <img
-          src="https://img.shields.io/badge/03-Forest%20Genomics-884C3C?style=for-the-badge"
+          src="https://img.shields.io/badge/02-Forest%20Genomics-884C3C?style=for-the-badge"
           alt="Forest Genomics"
         />
       </a>
       <br><br>
-      Bringing genomic tools to the field with a collaboration with folks at The Nature Conservancy and carry out restoration work in United States.
+      Bringing genomic tools to the field for species restoration in collaboration with folks at [TNC](https://www.youtube.com/watch?v=S_EklrfsIVw).
       <br><br>
       <a href="https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600">View research →</a>
     </td>
