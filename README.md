@@ -14,9 +14,47 @@ I am a computational biologist and population geneticist studying how tree popul
 - **Ph.D., Plant Biology** — University of Vermont, USA
 - **M.Sc., Tree Physiology and Breeding** — Kerala Agricultural University, India
 
-## Research highlights
+## Selected work
 
-Reproducible workflows for genotype–environment association, conservation genomics, and climate-adaptation analyses in forest tree populations.
+> Reproducible research at the intersection of forest genomics, population genetics, and climate adaptation.
+
+### `01` · G×E interaction in red spruce
+
+[![Project site](https://img.shields.io/badge/Project%20site-F5276C?style=flat-square&logo=githubpages&logoColor=white)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/NSF_RedSpruce_CG)
+
+Reproducible analyses of genotype-by-environment interaction and trait plasticity in red spruce (*Picea rubens* Sarg.).
+
+<br>
+
+### `02` · Forest genomics for restoration
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/Genomic_assisted_selection)
+[![Publication](https://img.shields.io/badge/Publication-884C3C?style=flat-square&logo=readme&logoColor=white)](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600)
+
+Applying genomic tools to forest restoration and climate-adaptation decisions in collaboration with [The Nature Conservancy](https://www.youtube.com/watch?v=S_EklrfsIVw).
+
+<br>
+
+### `03` · Ecological genomics
+
+[![Project site](https://img.shields.io/badge/Project%20site-583C88?style=flat-square&logo=githubpages&logoColor=white)](https://anoobvinu07.github.io/EcologicalGenomics/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/EcologicalGenomics)
+
+Notes and reproducible materials for learning ecological-genomics methods and the theory underlying their application.
+
+<br>
+
+### `04` · Research notebook
+
+[![Visit notebook](https://img.shields.io/badge/Visit%20notebook-276DC3?style=flat-square&logo=quarto&logoColor=white)](https://anoobvinu07.github.io/notebook/)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07)
+
+Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
+
+
+
+<!--
 
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
@@ -74,45 +112,7 @@ Reproducible workflows for genotype–environment association, conservation geno
     </td>
   </tr>
 </table>
-
-
-## Selected work
-
-> Reproducible research at the intersection of forest genomics, population genetics, and climate adaptation.
-
-### `01` · G×E interaction in red spruce
-
-[![Project site](https://img.shields.io/badge/Project%20site-F5276C?style=flat-square&logo=githubpages&logoColor=white)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/NSF_RedSpruce_CG)
-
-Reproducible analyses of genotype-by-environment interaction and trait plasticity in red spruce (*Picea rubens* Sarg.).
-
-<br>
-
-### `02` · Forest genomics for restoration
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/Genomic_assisted_selection)
-[![Publication](https://img.shields.io/badge/Publication-884C3C?style=flat-square&logo=readme&logoColor=white)](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600)
-
-Applying genomic tools to forest restoration and climate-adaptation decisions in collaboration with [The Nature Conservancy](https://www.youtube.com/watch?v=S_EklrfsIVw).
-
-<br>
-
-### `03` · Ecological genomics
-
-[![Project site](https://img.shields.io/badge/Project%20site-583C88?style=flat-square&logo=githubpages&logoColor=white)](https://anoobvinu07.github.io/EcologicalGenomics/)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07/EcologicalGenomics)
-
-Notes and reproducible materials for learning ecological-genomics methods and the theory underlying their application.
-
-<br>
-
-### `04` · Research notebook
-
-[![Visit notebook](https://img.shields.io/badge/Visit%20notebook-276DC3?style=flat-square&logo=quarto&logoColor=white)](https://anoobvinu07.github.io/notebook/)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoobvinu07)
-
-Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
+-->
 
 <!--
 [![G×E Interaction](https://img.shields.io/badge/01-GxE%20Interaction-F5276C?style=for-the-badge)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
