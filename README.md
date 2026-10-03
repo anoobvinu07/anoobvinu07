@@ -23,7 +23,7 @@ Reproducible workflows for genotype–environment association, conservation geno
     <td width="25%" align="center" valign="top">
       <a href="https://anoobvinu07.github.io/NSF_RedSpruce_CG/">
         <img
-          src="https://img.shields.io/badge/01-Genotype--Environment-F5276C?style=for-the-badge"
+          src="https://img.shields.io/badge/01-GxE%20Interaction-F5276C?style=for-the-badge"
           alt="Genotype–environment association"
         />
       </a>
