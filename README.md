@@ -33,8 +33,7 @@ Reproducible workflows for genotype–environment association, conservation geno
         />
       </a>
       <br><br>
-      <br><br>
-      Reproducible analyses of genotype environment interaction in red spruce (_Picea rubens_ Sarg).
+      Reproducible analyses of genotype environment interaction in red spruce (Picea rubens Sarg).
       <br><br>
       <a href="https://github.com/anoobvinu07/NSF_RedSpruce_CG">Explore repository →</a>
     </td>
