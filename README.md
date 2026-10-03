@@ -75,6 +75,44 @@ Reproducible workflows for genotype–environment association, conservation geno
   </tr>
 </table>
 
+### 01 · G×E Interaction
+
+[![G×E Interaction](https://img.shields.io/badge/01-GxE%20Interaction-F5276C?style=for-the-badge)](https://anoobvinu07.github.io/NSF_RedSpruce_CG/)
+
+Reproducible analyses of genotype–environment interactions and trait plasticity in red spruce (*Picea rubens* Sarg.).
+
+[Explore repository →](https://github.com/anoobvinu07/NSF_RedSpruce_CG)
+
+---
+
+### 02 · Forest Genomics
+
+[![Forest Genomics](https://img.shields.io/badge/02-Forest%20Genomics-884C3C?style=for-the-badge)](https://github.com/anoobvinu07/Genomic_assisted_selection)
+
+Applying genomic tools to forest restoration and climate-adaptation decisions in collaboration with [The Nature Conservancy](https://www.youtube.com/watch?v=S_EklrfsIVw).
+
+[View publication →](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11600)
+
+---
+
+### 03 · Ecological Genomics
+
+[![Ecological Genomics](https://img.shields.io/badge/03-Ecol%20Genomics-583C88?style=for-the-badge)](https://anoobvinu07.github.io/EcologicalGenomics/)
+
+Notes and reproducible materials for learning ecological-genomics methods and the theory underlying their application.
+
+[Explore repository →](https://github.com/anoobvinu07/EcologicalGenomics)
+
+---
+
+### 04 · My Notebook
+
+[![My Notebook](https://img.shields.io/badge/04-My%20Notebook-276DC3?style=for-the-badge)](https://anoobvinu07.github.io/notebook/)
+
+Field notes, computational workflows, visualizations, methods documentation, and resources for reproducible ecological genomics.
+
+[Visit notebook →](https://anoobvinu07.github.io/notebook/)
+
 <!--
 **anoobvinu07/anoobvinu07** is a special repository because its README.md
 appears on your GitHub profile.
