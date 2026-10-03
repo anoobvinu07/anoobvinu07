@@ -30,6 +30,23 @@ estimation, and climate-adaptation analyses in forest tree populations.
 [![Email Anoob](https://img.shields.io/badge/Email%20me-884C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakas89@purdue.edu)
 
 </div>
+
+<div align="center">
+
+## Anoob Prakash
+
+Postdoctoral researcher in forest genomics, population genetics,  
+and climate adaptation.
+
+[![Research notebook](https://img.shields.io/badge/Research%20notebook-583C88?style=for-the-badge&logo=quarto&logoColor=white)](https://anoobvinu07.github.io/notebook/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5ACBBE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoob-prakash/)
+
+[![Email](https://img.shields.io/badge/Email%20me-884C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakas89@purdue.edu)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
+
+</div>
 <!--
 **anoobvinu07/anoobvinu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
