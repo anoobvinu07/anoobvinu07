@@ -2,10 +2,10 @@
 
 Postdoctoral researcher in **forest genomics**, population genetics, and climate adaptation.
 
-[![Website](https://img.shields.io/badge/Website-D74751?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/)
+[![Website](https://img.shields.io/badge/Website-D74751?style=flat-square&logo=googlechrome&logoColor=white)](https://anoobvinu07.github.io/){target="_blank" rel="noopener noreferrer"}
 [![Email](https://img.shields.io/badge/Email-anoobvinu%40gmail.com-884C3C?style=flat-square&logo=gmail&logoColor=white)](mailto:anoobvinu@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-5DC07E?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-276DC3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoob-prakash/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7207--934X-5DC07E?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7207-934X){target="_blank" rel="noopener noreferrer"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-276DC3?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoob-prakash/){target="_blank" rel="noopener noreferrer"}
 
 I am a computational biologist and population geneticist studying how tree populations adapt to climate change. My current work focuses on climate adaptation in black walnut, white oak, and shortleaf pine. I use population-genomic and machine-learning approaches to understand climate-associated genetic variation and evaluate how populations may respond to future environmental change.
 
